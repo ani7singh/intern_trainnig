@@ -1,0 +1,19 @@
+{
+  "name": "@ani/an",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "anita singh",
+  "license": "ISC",
+  "description": "this is learnnpm task",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "\"https://docs.npmjs.com/misc/scripts\""
+  }
+}
